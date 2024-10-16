@@ -7,7 +7,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'free_File_Sharing_Bot')
 API_ID = int(environ.get('API_ID', '27634238'))
 API_HASH = environ.get('API_HASH', 'f892961f93178c81c36ddccfe082e06e')
-BOT_TOKEN = environ.get('BOT_TOKEN', "")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7817262970:AAEppH6HL3Cg6CtKRQ5PN-Rq_vvZ_Cqxk0M")
 
 # Bot settings
 PORT = environ.get("PORT", "8080")
